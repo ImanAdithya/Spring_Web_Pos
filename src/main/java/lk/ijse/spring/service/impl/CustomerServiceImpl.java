@@ -16,9 +16,8 @@ import java.util.List;
 @Transactional
 public class CustomerServiceImpl implements CustomerService {
 
-    @Autowired
-    CustomerRepo customerRepo;
 
+    CustomerRepo customerRepository;
 
     @Autowired
     ModelMapper mapper;
