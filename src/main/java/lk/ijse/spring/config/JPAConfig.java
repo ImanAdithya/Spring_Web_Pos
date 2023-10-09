@@ -34,7 +34,7 @@ public class JPAConfig {
         ds.setUsername("root");
         ds.setPassword("12345678");
         ds.setDriverClassName("com.mysql.jdbc.Driver");
-        ds.setUrl("jdbc:mysql://localhost:3306/d2?createDatabaseIfNotExist=true");
+        ds.setUrl("jdbc:mysql://localhost:3306/SDatabase?createDatabaseIfNotExist=true");
         return ds;
     }
 
