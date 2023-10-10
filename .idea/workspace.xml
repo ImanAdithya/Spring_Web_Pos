@@ -11,6 +11,53 @@
   <component name="ChangeListManager">
     <list default="true" id="b03e3715-080d-4d45-bdb8-b551733a4da7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/spring/config/JPAConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/spring/config/JPAConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/WEB-INF/classes/lk/ijse/spring/config/JPAConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/WEB-INF/classes/lk/ijse/spring/config/JPAConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/WEB-INF/classes/lk/ijse/spring/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/WEB-INF/classes/lk/ijse/spring/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/WEB-INF/classes/lk/ijse/spring/repo/ItemRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/WEB-INF/classes/lk/ijse/spring/repo/ItemRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/WEB-INF/classes/lk/ijse/spring/service/ItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/WEB-INF/classes/lk/ijse/spring/service/ItemService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/img/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/img/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/img/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/img/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/js/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/assets/js/jquery-3.7.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/controllers/CustomerController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/controllers/DashboardController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/controllers/ItemController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/controllers/PurchaseOrderController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/controllers/validations/CustomerValidations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/controllers/validations/ItemValidations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/db/db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/models/Customer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spring_Web_Pos-1.0-SNAPSHOT/models/Item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/spring/config/JPAConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lk/ijse/spring/config/JPAConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/spring/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lk/ijse/spring/controller/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/spring/repo/ItemRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lk/ijse/spring/repo/ItemRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/spring/service/ItemService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lk/ijse/spring/service/ItemService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +67,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,6 +101,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -175,7 +224,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696858445865</updated>
       <workItem from="1696858447832" duration="536000" />
-      <workItem from="1696859022081" duration="4944000" />
+      <workItem from="1696859022081" duration="6410000" />
     </task>
     <servers />
   </component>
