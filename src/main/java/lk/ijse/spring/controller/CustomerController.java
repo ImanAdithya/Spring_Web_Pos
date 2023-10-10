@@ -12,9 +12,8 @@ import java.util.List;
 @RequestMapping("/customer")
 public class CustomerController {
 
-    @Autowired
-    CustomerService service;
-
+   @Autowired
+   CustomerService service;
     //xxx-formurl
     @PostMapping
     public ResponseUtil saveCustomer(CustomerDTO dto){
